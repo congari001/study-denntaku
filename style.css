@@ -1,0 +1,114 @@
+@charset "utf-8";
+.display {
+    color: #000;
+    background-color: aliceblue;
+    border: 0.1rem solid;
+    border-color: black;
+}
+.button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.2rem;
+    cursor: pointer;
+    color: #fff;
+    background-color: lightsteelblue;
+    border: 0.1rem solid;
+    border-color: black;
+    border-radius: 0.3rem;
+}
+.button_size11 {
+    height: 2rem;
+    width: 4rem;
+}
+.button_size41 {
+    height: 8.9rem;
+    width: 4rem;
+}
+#denntaku {
+    position: relative;
+    height: 14.8rem;
+    width: 17.3rem;
+    border: 0.1rem solid;
+}
+#display_base {
+    position: absolute;
+    top: 0rem;
+}
+#button_base {
+    position: absolute;
+    top: 5.5rem;
+}
+#display1 {
+    position: absolute;
+    top: 0.1rem;
+    left: 0.1rem;
+    height: 5rem;
+    width: 16.9rem;
+    font-size: 2rem;
+}
+#button_7 {
+    position: absolute;
+    top: 0.1rem;
+    left: 0.1rem;
+}
+#button_8 {
+    position: absolute;
+    top: 0.1rem;
+    left: 4.4rem;
+}
+#button_9 {
+    position: absolute;
+    top: 0.1rem;
+    left: 8.7rem;
+}
+#button_4 {
+    position: absolute;
+    top: 2.4rem;
+    left: 0.1rem;
+}
+#button_5 {
+    position: absolute;
+    top: 2.4rem;
+    left: 4.4rem;
+}
+#button_6 {
+    position: absolute;
+    top: 2.4rem;
+    left: 8.7rem;
+}
+#button_1 {
+    position: absolute;
+    top: 4.7rem;
+    left: 0.1rem;
+}
+#button_2 {
+    position: absolute;
+    top: 4.7rem;
+    left: 4.4rem;
+}
+#button_3 {
+    position: absolute;
+    top: 4.7rem;
+    left: 8.7rem;
+}
+#button_0 {
+    position: absolute;
+    top: 7.0rem;
+    left: 0.1rem;
+}
+#button_dot {
+    position: absolute;
+    top: 7.0rem;
+    left: 4.4rem;
+}
+#button_equal {
+    position: absolute;
+    top: 7.0rem;
+    left: 8.7rem;
+}
+#button_plus {
+    position: absolute;
+    top: 0.1rem;
+    left: 13.0rem;
+}
